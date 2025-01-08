@@ -24,3 +24,4 @@ cmake_install.cmake
 *.temp
 # Backup files
 *~
+/cmake-build-debug/

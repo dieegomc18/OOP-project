@@ -1,11 +1,11 @@
 # ninja log v6
 24	1283	7561655377796017	CMakeFiles/untitled1.dir/main.cpp.obj	c8d57489f8d9b061
-1283	1482	7561655390388496	untitled1.exe	1cad3a812f371e09
-19	447	7580572294442140	build.ninja	b27daf0012ed5b05
 55	155	7580573459884657	CMakeFiles/CinemaTicketingSystem.dir/functions.cpp.obj	3d54b005bbc2c33a
-49	352	7580573459824680	CMakeFiles/CinemaTicketingSystem.dir/User.cpp.obj	af01daab9b37a92b
 40	354	7580573459732569	CMakeFiles/CinemaTicketingSystem.dir/Movie.cpp.obj	c9348bbdb8999ae2
-45	370	7580573459782578	CMakeFiles/CinemaTicketingSystem.dir/Ticket.cpp.obj	d83b4b32f6adac1a
-62	428	7580573459944704	CMakeFiles/CinemaTicketingSystem.dir/main.cpp.obj	5debe4957917e2ef
-35	504	7580573459682572	CMakeFiles/CinemaTicketingSystem.dir/Cinema.cpp.obj	28d625d11aeb3a97
+1283	1482	7561655390388496	untitled1.exe	1cad3a812f371e09
 504	936	7580573464376591	CinemaTicketingSystem.exe	6bf482610d81275a
+19	447	7580578784980561	build.ninja	b27daf0012ed5b05
+49	352	7580573459824680	CMakeFiles/CinemaTicketingSystem.dir/User.cpp.obj	af01daab9b37a92b
+62	428	7580573459944704	CMakeFiles/CinemaTicketingSystem.dir/main.cpp.obj	5debe4957917e2ef
+45	370	7580573459782578	CMakeFiles/CinemaTicketingSystem.dir/Ticket.cpp.obj	d83b4b32f6adac1a
+35	504	7580573459682572	CMakeFiles/CinemaTicketingSystem.dir/Cinema.cpp.obj	28d625d11aeb3a97
