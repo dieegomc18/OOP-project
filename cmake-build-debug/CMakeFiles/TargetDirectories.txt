@@ -1,0 +1,3 @@
+C:/Users/diego/CLionProjects/OOP_Project/cmake-build-debug/CMakeFiles/CinemaTicketingSystem.dir
+C:/Users/diego/CLionProjects/OOP_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diego/CLionProjects/OOP_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
